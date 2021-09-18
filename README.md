@@ -14,7 +14,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  <br />
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React](https://img.shields.io/badge/-NextJS-black?style=flat)
   ![React](https://img.shields.io/badge/-NestJS-red?style=flat&logo=nestjs)
@@ -33,7 +32,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phhai&show_icons=true&theme=tokyonight)
 
 
-## 🤝🏻 Connect with Me
+### 🤝🏻 Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/phan-hong-hai-636825130/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
