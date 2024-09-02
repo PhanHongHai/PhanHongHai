@@ -1,9 +1,9 @@
 ### About Me
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-👋 Hi, I’m @PhanHongHai, a web developer with 1 year of experience React/Nodejs 
+👋 Hi, I’m @PhanHongHai, a Front-end developer with 3 year of experience ReactJS
 
-- 🌱 I’m currently learn web development using ExpressJS, NestJS, React, NextJS and MongoDB.
+- 🌱 I’m currently learn web development using NestJS, React, NextJS and MongoDB.
 - 💞️ I’m looking for a job freelance.
 
 ### 🛠 Tech Stack
